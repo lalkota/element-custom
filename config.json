@@ -1,0 +1,14 @@
+{
+  "default_server_config": {
+    "m.homeserver": {
+      "base_url": "https://matrix.meetxcyberx.com",
+      "server_name": "meetxcyberx.com"
+    }
+  },
+  "brand": "MeetX CyberX Chat",
+  "jitsi": {
+    "preferred_domain": "web.meetxcyberx.com"
+  },
+  "disable_custom_urls": true,
+  "disable_guests": true
+}
